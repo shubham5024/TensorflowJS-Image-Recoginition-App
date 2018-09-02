@@ -1,0 +1,21 @@
+body{
+    background-image:url("image.jpg");
+    font-size: 16px
+        /* Full height */
+         
+
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+prediction-list{
+    line-break: auto;
+}
+h1{
+    font-size: 300%;
+    color:#475ac6;
+    padding-bottom:30px;
+    padding-top: -20px;
+    padding-left: 20px;
+}
