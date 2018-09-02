@@ -5,8 +5,8 @@ By using TensorFlowJS, I used the pretained model to build the application which
 With the help of tensorflowJS it is becoming very much useful in building the application in a browser.
 
 ## Model Used
-  1.Mobilenet
-  2.VGG16
+  Mobilenet
+  VGG16
  
  
 
